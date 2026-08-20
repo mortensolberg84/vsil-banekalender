@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "fetchedAt": "2026-08-20T20:19:07.495Z",
+  "fetchedAt": "2026-08-20T20:20:04.263Z",
   "timezone": "Europe/Oslo",
   "period": {
     "from": "2026-08-19T22:00:00.000Z",
-    "to": "2026-10-03T22:00:00.000Z",
-    "days": 45
+    "to": "2026-10-08T22:00:00.000Z",
+    "days": 50
   },
-  "total": 145,
+  "total": 160,
   "groupSponds": [
     {
       "id": "F3D0DCCB1BC44AB99A8AEEBB52E9048C",
@@ -2247,6 +2247,231 @@
       "type": "RECURRING",
       "startTime": "2026-10-03T08:20:00Z",
       "endTime": "2026-10-03T10:00:00Z"
+    },
+    {
+      "id": "F6B8F30CE6DF474BAF1A15EC1BA02075",
+      "heading": "Fotballtrening 2017 -Mandag",
+      "description": "Ute 17.15-18.30",
+      "groupId": "9008CE6E6B8743478D0176691F7AAE73",
+      "groupName": "2017  Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-05T15:15:00Z",
+      "endTime": "2026-10-05T16:30:00Z"
+    },
+    {
+      "id": "79401B5186794D04A7FE413D1E0F2481",
+      "heading": "G2019 - Fotballtrening",
+      "groupId": "2BD19CDEBAA944FAAF0F8D547685A669",
+      "groupName": "2019 Fotball",
+      "subGroupIds": [
+        "84F54A9DF51A4F038E189AF1685B7781"
+      ],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-05T15:20:00Z",
+      "endTime": "2026-10-05T16:30:00Z"
+    },
+    {
+      "id": "E052B220A80B47C6A4B3833F538483D5",
+      "heading": "Fotball 2019 Trening🙂⚽️",
+      "groupId": "2BD19CDEBAA944FAAF0F8D547685A669",
+      "groupName": "2019 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Vålerhallen",
+        "address": "Skoleveien, Våler i Østfold",
+        "latitude": 59.490044,
+        "longitude": 10.85753
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-05T15:20:00Z",
+      "endTime": "2026-10-05T16:30:00Z"
+    },
+    {
+      "id": "B171333928C24B4FAB34042F3F41C835",
+      "heading": "Vansjø/Svinndal G11 Sort – Ås  G12 Grønn",
+      "description": "G12 Lillegutter 12 år 9er avd 01 høst (runde 7)\n\nVansjø/Svinndal G11 Sort - Ås  G12 Grønn\nKirkebygden KG 7er A mandag 05.10.26 18:15\n\nwww.fotball.no",
+      "groupId": "F127ABE5190147E2A1C959742881385C",
+      "groupName": "2015 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kirkebygden KG 7er A"
+      },
+      "type": "MATCH",
+      "startTime": "2026-10-05T16:15:00Z",
+      "endTime": "2026-10-05T17:29:00Z"
+    },
+    {
+      "id": "DEBAB2CE04A34EE4B205B365A9B98B64",
+      "heading": "Trening G13",
+      "groupId": "15D66E5344724847A461156E783A9667",
+      "groupName": "2013/2014  Fotball",
+      "subGroupIds": [],
+      "type": "RECURRING",
+      "startTime": "2026-10-05T16:15:00Z",
+      "endTime": "2026-10-05T18:00:00Z"
+    },
+    {
+      "id": "F1159F47232A404A9099B55392449AB0",
+      "heading": "Trening 2015",
+      "groupId": "F127ABE5190147E2A1C959742881385C",
+      "groupName": "2015 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-05T16:20:00Z",
+      "endTime": "2026-10-05T18:00:00Z"
+    },
+    {
+      "id": "0BC5089329BC4E3DB9D04A04DF9141AF",
+      "heading": "Grasrottrener - delkurs 1 (Dag 1)",
+      "description": "V/S inviterer til Grasrottrener Delkurs 1! \n\nMer info kommer når det nærmer seg. Avhengig av antall deltakere finner vi egnet lokale i nærheten av KIrkebygden. \n\nKurset avholdes tirsdag, torsdag og lørdag i uke 41.\nDet blir to dager klasseromsundervisning og en avsluttende praktisk økt på lørdag. Omtrent 4 timer per økt. Man må være med på alle økter for å få godkjent kurs.",
+      "groupId": "17EFC910E0C0492ABFD49AE05B655A95",
+      "groupName": "Trener og lagleder V/S fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Vålerhallen Skoleveien, Våler i Østfold"
+      },
+      "type": "EVENT",
+      "startTime": "2026-10-06T16:00:00Z",
+      "endTime": "2026-10-06T20:00:00Z"
+    },
+    {
+      "id": "5736290F36424635989ACD436B241D99",
+      "heading": "Vansjø/Svinndal G11 Rød – Sprint-Jeløy  G11 Hvit",
+      "description": "G11 Lillegutter 11 år 7er avd 05 høst (runde 8)\n\nVansjø/Svinndal G11 Rød - Sprint-Jeløy  G11 Hvit\nKirkebygden KG 7er A tirsdag 06.10.26 18:15\n\nwww.fotball.no",
+      "groupId": "F127ABE5190147E2A1C959742881385C",
+      "groupName": "2015 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kirkebygden KG 7er A"
+      },
+      "type": "MATCH",
+      "startTime": "2026-10-06T16:15:00Z",
+      "endTime": "2026-10-06T17:19:00Z"
+    },
+    {
+      "id": "68A867EDD4024FB0A6B785CC1F9E1DB4",
+      "heading": "Trening G13",
+      "groupId": "15D66E5344724847A461156E783A9667",
+      "groupName": "2013/2014  Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-06T16:15:00Z",
+      "endTime": "2026-10-06T18:00:00Z"
+    },
+    {
+      "id": "82CB04D50946478B8730ACF4A02C629F",
+      "heading": "Fotball 2020 trening",
+      "groupId": "C76F28E538844A9EA46EEAE94D88B5D5",
+      "groupName": "2020 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "kirkeveien 150"
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-07T15:30:00Z",
+      "endTime": "2026-10-07T16:30:00Z"
+    },
+    {
+      "id": "16EE03C3F4EF411BB38EE462D213B56F",
+      "heading": "G2018 FotballTrening",
+      "description": "Velkommen til trening for 2018 barna Torsdager kl.17.30\n\nTrening vil foregå ute på Kunstgresset\n\nHusk leggskinn og fotballsko!\nKampdrakt skal ikke brukes på treninger\n\nOppmøte 17.20 slik at vi kan starte treningen kl.17.30",
+      "groupId": "8E208D263DCC481FABBE549478DA711C",
+      "groupName": "2018 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-08T15:20:00Z",
+      "endTime": "2026-10-08T17:00:00Z"
+    },
+    {
+      "id": "CBC1B88ACAAE40E2B354F6FE9E8536D2",
+      "heading": "Grasrottrener - delkurs 1 (Dag 2)",
+      "description": "V/S inviterer til Grasrottrener Delkurs 1! \n\nMer info kommer når det nærmer seg. Avhengig av antall deltakere finner vi egnet lokale i nærheten av KIrkebygden. \n\nKurset avholdes tirsdag, torsdag og lørdag i uke 41.\nDet blir to dager klasseromsundervisning og en avsluttende praktisk økt på lørdag. Omtrent 4 timer per økt. Man må være med på alle økter for å få godkjent kurs.",
+      "groupId": "17EFC910E0C0492ABFD49AE05B655A95",
+      "groupName": "Trener og lagleder V/S fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Vålerhallen Skoleveien, Våler i Østfold"
+      },
+      "type": "EVENT",
+      "startTime": "2026-10-08T16:00:00Z",
+      "endTime": "2026-10-08T20:00:00Z"
+    },
+    {
+      "id": "CC36FCFBE49148A3B54C979A7858D141",
+      "heading": "Vansjø/Svinndal G13-1 – Trosvik G13-1",
+      "description": "G13 år 1. divisjon B-sluttspill (runde 6)\n\nVansjø/Svinndal G13-1 - Trosvik G13-1\nKirkebygden KG torsdag 08.10.26 18:15\n\nwww.fotball.no",
+      "groupId": "15D66E5344724847A461156E783A9667",
+      "groupName": "2013/2014  Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kirkebygden KG"
+      },
+      "type": "MATCH",
+      "startTime": "2026-10-08T16:15:00Z",
+      "endTime": "2026-10-08T17:34:00Z"
+    },
+    {
+      "id": "61457D57E50C4E5AB33E228B972F1854",
+      "heading": "Trening G13",
+      "groupId": "15D66E5344724847A461156E783A9667",
+      "groupName": "2013/2014  Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-08T16:20:00Z",
+      "endTime": "2026-10-08T18:00:00Z"
+    },
+    {
+      "id": "6796C38BCC42453A90B71079880DC347",
+      "heading": "Trening 2015",
+      "groupId": "F127ABE5190147E2A1C959742881385C",
+      "groupName": "2015 Fotball",
+      "subGroupIds": [],
+      "location": {
+        "feature": "Kunstgressbanen i Våler",
+        "address": "Kirkeveien 150, Våler i Østfold",
+        "latitude": 59.488594,
+        "longitude": 10.85841
+      },
+      "type": "RECURRING",
+      "startTime": "2026-10-08T16:20:00Z",
+      "endTime": "2026-10-08T18:00:00Z"
     }
   ],
   "clubSponds": []
