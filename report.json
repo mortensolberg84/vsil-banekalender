@@ -1,0 +1,2171 @@
+{
+  "ok": true,
+  "generatedAt": "2026-08-20T20:20:04.263Z",
+  "timezone": "Europe/Oslo",
+  "month": {
+    "name": "2026-09",
+    "from": "2026-08-31T22:00:00.000Z",
+    "to": "2026-09-30T22:00:00.000Z"
+  },
+  "rules": {
+    "trainings": {
+      "2013": "50 %, kan reduseres til 25 %",
+      "2014": "50 %, kan reduseres til 25 %",
+      "2015": "50 %, kan reduseres til 25 %",
+      "2016": "50 %, kan reduseres til 25 %",
+      "2017": 25,
+      "2018": 25,
+      "2019": "25 % totalt for begge lag",
+      "2020": 25
+    },
+    "matches": {
+      "2017": 25,
+      "2018": 25,
+      "2019": "ingen",
+      "2020": "ingen",
+      "2015 Rød": 25,
+      "2015 Sort": 50,
+      "2013/2014 G-1": 100,
+      "2013/2014 G-2": 50
+    },
+    "priorities": [
+      "Kamper har forrang foran trening",
+      "Utleie bruker 100 %",
+      "Interncup bruker 100 %",
+      "Møllebyen-utleie bruker 100 %",
+      "Ekholt-utleie bruker 100 %",
+      "Varsling fokuserer på dager med hjemmekamp"
+    ]
+  },
+  "homeMatchDays": [
+    {
+      "date": "2026-09-01",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G9 Rød – Kambo G9 Rød",
+          "group": "2017  Fotball",
+          "location": "Kirkebygden KG 5er B-2",
+          "from": "17:15",
+          "to": "18:09",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-02",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G8 Sort – Rygge G8 Rød",
+          "group": "2018 Fotball",
+          "location": "Kirkebygden KG 5er B-2",
+          "from": "16:55",
+          "to": "18:09",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-08",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G8 Rød – Saltnes G8",
+          "group": "2018 Fotball",
+          "location": "Kirkebygden KG 5er B-1",
+          "from": "16:55",
+          "to": "18:09",
+          "capacityPercent": 25
+        },
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Kambo G13-2",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er A",
+          "from": "17:30",
+          "to": "19:34",
+          "capacityPercent": 50
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-09",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G9 Hvit – Øreåsen G9 Sort",
+          "group": "2017  Fotball",
+          "location": "Kirkebygden KG 5er B-1",
+          "from": "17:15",
+          "to": "18:09",
+          "capacityPercent": 25
+        },
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Drøbak-Frogn G11 Gul",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-10",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G9 Sort – Kambo G9 Sort",
+          "group": "2017  Fotball",
+          "location": "Kirkebygden KG 5er B-2",
+          "from": "17:15",
+          "to": "18:09",
+          "capacityPercent": 25
+        },
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34",
+          "capacityPercent": 100
+        }
+      ],
+      "alerts": [
+        {
+          "date": "2026-09-10",
+          "from": "18:15",
+          "to": "18:20",
+          "durationMinutes": 5,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 125,
+          "minimumCapacityPercent": 125,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "G2018 FotballTrening",
+              "group": "2018 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "19:00",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2018",
+              "action": "avslutt senest 18:15",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "from": "18:20",
+          "to": "19:00",
+          "durationMinutes": 40,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 225,
+          "minimumCapacityPercent": 175,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "G2018 FotballTrening",
+              "group": "2018 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "19:00",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2018",
+              "action": "avslutt senest 18:15",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-10",
+          "from": "19:00",
+          "to": "19:34",
+          "durationMinutes": 34,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 200,
+          "minimumCapacityPercent": 150,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:29",
+          "capacityPercent": 50
+        }
+      ],
+      "alerts": [
+        {
+          "date": "2026-09-14",
+          "from": "18:15",
+          "to": "18:20",
+          "durationMinutes": 5,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 150,
+          "minimumCapacityPercent": 125,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:29"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "G2019 - Fotballtrening",
+              "group": "2019 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "avslutt før kampen, start senere eller flytt treningen",
+              "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "from": "18:20",
+          "to": "18:30",
+          "durationMinutes": 10,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 200,
+          "minimumCapacityPercent": 150,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:29"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "G2019 - Fotballtrening",
+              "group": "2019 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "avslutt før kampen, start senere eller flytt treningen",
+              "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+            },
+            {
+              "team": "2015",
+              "action": "avslutt før kampen, start senere eller flytt treningen",
+              "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-14",
+          "from": "18:30",
+          "to": "19:29",
+          "durationMinutes": 59,
+          "marker": "⚽",
+          "severity": "kan løses med redusert treningsareal",
+          "desiredCapacityPercent": 150,
+          "minimumCapacityPercent": 100,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:29"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "bruk 25 % bane i stedet for 50 %",
+              "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+            },
+            {
+              "team": "2015",
+              "action": "bruk 25 % bane i stedet for 50 %",
+              "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G9 Rød – Ås  G9 Grønn",
+          "group": "2017  Fotball",
+          "location": "Kirkebygden KG 5er B-2",
+          "from": "17:15",
+          "to": "18:09",
+          "capacityPercent": 25
+        },
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Sprint-Jeløy  G11 Grønn",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-16",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G8 Sort – Eika Krapfoss G8 Grønn",
+          "group": "2018 Fotball",
+          "location": "Kirkebygden KG 5er B-2",
+          "from": "16:55",
+          "to": "18:09",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": []
+    },
+    {
+      "date": "2026-09-21",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er B",
+          "from": "17:30",
+          "to": "19:34",
+          "capacityPercent": 100
+        }
+      ],
+      "alerts": [
+        {
+          "date": "2026-09-21",
+          "from": "17:30",
+          "to": "18:15",
+          "durationMinutes": 45,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 150,
+          "minimumCapacityPercent": 150,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG 9er B",
+              "from": "17:30",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "G2019 - Fotballtrening",
+              "group": "2019 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2017",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "from": "18:15",
+          "to": "18:20",
+          "durationMinutes": 5,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 200,
+          "minimumCapacityPercent": 175,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG 9er B",
+              "from": "17:30",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "G2019 - Fotballtrening",
+              "group": "2019 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2017",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "from": "18:20",
+          "to": "18:30",
+          "durationMinutes": 10,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 250,
+          "minimumCapacityPercent": 200,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG 9er B",
+              "from": "17:30",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "G2019 - Fotballtrening",
+              "group": "2019 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2017",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2019",
+              "action": "avslutt senest 17:30",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-21",
+          "from": "18:30",
+          "to": "19:34",
+          "durationMinutes": 64,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 200,
+          "minimumCapacityPercent": 150,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG 9er B",
+              "from": "17:30",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34",
+          "capacityPercent": 100
+        }
+      ],
+      "alerts": [
+        {
+          "date": "2026-09-24",
+          "from": "18:15",
+          "to": "18:20",
+          "durationMinutes": 5,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 125,
+          "minimumCapacityPercent": 125,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "G2018 FotballTrening",
+              "group": "2018 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "19:00",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2018",
+              "action": "avslutt senest 18:15",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "from": "18:20",
+          "to": "19:00",
+          "durationMinutes": 40,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 225,
+          "minimumCapacityPercent": 175,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "G2018 FotballTrening",
+              "group": "2018 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:20",
+              "to": "19:00",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2018",
+              "action": "avslutt senest 18:15",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "from": "19:00",
+          "to": "19:34",
+          "durationMinutes": 34,
+          "marker": "⚽",
+          "severity": "krever tiltak",
+          "desiredCapacityPercent": 200,
+          "minimumCapacityPercent": 150,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+              "group": "2013/2014  Fotball",
+              "location": "Kirkebygden KG",
+              "from": "18:15",
+              "to": "19:34"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            },
+            {
+              "team": "2015",
+              "action": "start etter 19:34 eller flytt treningen",
+              "reason": "Hjemmekampen bruker hele banen og har prioritet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "homeMatches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19",
+          "capacityPercent": 25
+        }
+      ],
+      "alerts": [
+        {
+          "date": "2026-09-28",
+          "from": "18:15",
+          "to": "18:20",
+          "durationMinutes": 5,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 125,
+          "minimumCapacityPercent": 100,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:19"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "bruk 25 % bane i stedet for 50 %",
+              "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "from": "18:20",
+          "to": "18:30",
+          "durationMinutes": 10,
+          "marker": "⚽",
+          "severity": "kort overgang",
+          "desiredCapacityPercent": 175,
+          "minimumCapacityPercent": 125,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:19"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Fotballtrening 2017 -Mandag",
+              "group": "2017  Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "17:15",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Fotball 2019 Trening🙂⚽️",
+              "group": "2019 Fotball",
+              "location": "Vålerhallen",
+              "from": "17:20",
+              "to": "18:30",
+              "desiredCapacityPercent": 25,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "avslutt før kampen, start senere eller flytt treningen",
+              "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+            }
+          ]
+        },
+        {
+          "date": "2026-09-28",
+          "from": "18:30",
+          "to": "19:19",
+          "durationMinutes": 49,
+          "marker": "⚽",
+          "severity": "kan løses med redusert treningsareal",
+          "desiredCapacityPercent": 125,
+          "minimumCapacityPercent": 75,
+          "matches": [
+            {
+              "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+              "group": "2015 Fotball",
+              "location": "Kirkebygden KG 7er A",
+              "from": "18:15",
+              "to": "19:19"
+            }
+          ],
+          "trainings": [
+            {
+              "heading": "Trening G13",
+              "group": "2013/2014  Fotball",
+              "location": "",
+              "from": "18:15",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            },
+            {
+              "heading": "Trening 2015",
+              "group": "2015 Fotball",
+              "location": "Kunstgressbanen i Våler",
+              "from": "18:20",
+              "to": "20:00",
+              "desiredCapacityPercent": 50,
+              "minimumCapacityPercent": 25
+            }
+          ],
+          "reservations": [],
+          "recommendations": [
+            {
+              "team": "2014",
+              "action": "bruk 25 % bane i stedet for 50 %",
+              "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "alerts": [
+    {
+      "date": "2026-09-10",
+      "from": "18:15",
+      "to": "18:20",
+      "durationMinutes": 5,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 125,
+      "minimumCapacityPercent": 125,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "G2018 FotballTrening",
+          "group": "2018 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "19:00",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2018",
+          "action": "avslutt senest 18:15",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "from": "18:20",
+      "to": "19:00",
+      "durationMinutes": 40,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 225,
+      "minimumCapacityPercent": 175,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "G2018 FotballTrening",
+          "group": "2018 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "19:00",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2018",
+          "action": "avslutt senest 18:15",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "from": "19:00",
+      "to": "19:34",
+      "durationMinutes": 34,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 200,
+      "minimumCapacityPercent": 150,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Askim Fotball G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "from": "18:15",
+      "to": "18:20",
+      "durationMinutes": 5,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 150,
+      "minimumCapacityPercent": 125,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:29"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "G2019 - Fotballtrening",
+          "group": "2019 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "avslutt før kampen, start senere eller flytt treningen",
+          "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "from": "18:20",
+      "to": "18:30",
+      "durationMinutes": 10,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 200,
+      "minimumCapacityPercent": 150,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:29"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "G2019 - Fotballtrening",
+          "group": "2019 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "avslutt før kampen, start senere eller flytt treningen",
+          "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+        },
+        {
+          "team": "2015",
+          "action": "avslutt før kampen, start senere eller flytt treningen",
+          "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "from": "18:30",
+      "to": "19:29",
+      "durationMinutes": 59,
+      "marker": "⚽",
+      "severity": "kan løses med redusert treningsareal",
+      "desiredCapacityPercent": 150,
+      "minimumCapacityPercent": 100,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Sort – Sprint-Jeløy  G12 Grønn",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:29"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "bruk 25 % bane i stedet for 50 %",
+          "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+        },
+        {
+          "team": "2015",
+          "action": "bruk 25 % bane i stedet for 50 %",
+          "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "from": "17:30",
+      "to": "18:15",
+      "durationMinutes": 45,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 150,
+      "minimumCapacityPercent": 150,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er B",
+          "from": "17:30",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "G2019 - Fotballtrening",
+          "group": "2019 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2017",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "from": "18:15",
+      "to": "18:20",
+      "durationMinutes": 5,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 200,
+      "minimumCapacityPercent": 175,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er B",
+          "from": "17:30",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "G2019 - Fotballtrening",
+          "group": "2019 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2017",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "from": "18:20",
+      "to": "18:30",
+      "durationMinutes": 10,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 250,
+      "minimumCapacityPercent": 200,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er B",
+          "from": "17:30",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "G2019 - Fotballtrening",
+          "group": "2019 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2017",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2019",
+          "action": "avslutt senest 17:30",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "from": "18:30",
+      "to": "19:34",
+      "durationMinutes": 64,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 200,
+      "minimumCapacityPercent": 150,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-2 – Trøgstad/Båstad G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG 9er B",
+          "from": "17:30",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "from": "18:15",
+      "to": "18:20",
+      "durationMinutes": 5,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 125,
+      "minimumCapacityPercent": 125,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "G2018 FotballTrening",
+          "group": "2018 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "19:00",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2018",
+          "action": "avslutt senest 18:15",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "from": "18:20",
+      "to": "19:00",
+      "durationMinutes": 40,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 225,
+      "minimumCapacityPercent": 175,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "G2018 FotballTrening",
+          "group": "2018 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:20",
+          "to": "19:00",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2018",
+          "action": "avslutt senest 18:15",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "from": "19:00",
+      "to": "19:34",
+      "durationMinutes": 34,
+      "marker": "⚽",
+      "severity": "krever tiltak",
+      "desiredCapacityPercent": 200,
+      "minimumCapacityPercent": 150,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G13-1 – Tune G13-1",
+          "group": "2013/2014  Fotball",
+          "location": "Kirkebygden KG",
+          "from": "18:15",
+          "to": "19:34"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        },
+        {
+          "team": "2015",
+          "action": "start etter 19:34 eller flytt treningen",
+          "reason": "Hjemmekampen bruker hele banen og har prioritet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "from": "18:15",
+      "to": "18:20",
+      "durationMinutes": 5,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 125,
+      "minimumCapacityPercent": 100,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "bruk 25 % bane i stedet for 50 %",
+          "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "from": "18:20",
+      "to": "18:30",
+      "durationMinutes": 10,
+      "marker": "⚽",
+      "severity": "kort overgang",
+      "desiredCapacityPercent": 175,
+      "minimumCapacityPercent": 125,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Fotballtrening 2017 -Mandag",
+          "group": "2017  Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "17:15",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Fotball 2019 Trening🙂⚽️",
+          "group": "2019 Fotball",
+          "location": "Vålerhallen",
+          "from": "17:20",
+          "to": "18:30",
+          "desiredCapacityPercent": 25,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "avslutt før kampen, start senere eller flytt treningen",
+          "reason": "Selv minimum treningsareal gir over 100 % samlet kapasitet."
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "from": "18:30",
+      "to": "19:19",
+      "durationMinutes": 49,
+      "marker": "⚽",
+      "severity": "kan løses med redusert treningsareal",
+      "desiredCapacityPercent": 125,
+      "minimumCapacityPercent": 75,
+      "matches": [
+        {
+          "heading": "Vansjø/Svinndal G11 Rød – Hobøl G11 Rød",
+          "group": "2015 Fotball",
+          "location": "Kirkebygden KG 7er A",
+          "from": "18:15",
+          "to": "19:19"
+        }
+      ],
+      "trainings": [
+        {
+          "heading": "Trening G13",
+          "group": "2013/2014  Fotball",
+          "location": "",
+          "from": "18:15",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        },
+        {
+          "heading": "Trening 2015",
+          "group": "2015 Fotball",
+          "location": "Kunstgressbanen i Våler",
+          "from": "18:20",
+          "to": "20:00",
+          "desiredCapacityPercent": 50,
+          "minimumCapacityPercent": 25
+        }
+      ],
+      "reservations": [],
+      "recommendations": [
+        {
+          "team": "2014",
+          "action": "bruk 25 % bane i stedet for 50 %",
+          "reason": "Dette gjør at trening og hjemmekamp får plass samtidig."
+        }
+      ]
+    }
+  ]
+}
